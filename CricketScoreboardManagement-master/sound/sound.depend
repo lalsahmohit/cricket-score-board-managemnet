@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555172532 source:c:\users\administrator\sound\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
+1555252927 source:f:\cmder\cricketscoreboardmanagement\sound\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<cctype>
+	<unistd.h>
+	<mmsystem.h>
+
